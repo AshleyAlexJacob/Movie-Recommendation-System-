@@ -4,6 +4,5 @@ An interactive jupyter notebooks based movie recommendation system made using Py
 
 ![App](video.gif)
 
-<br>
 
 [Dataset Source](https://grouplens.org/datasets/movielens/25m/)
